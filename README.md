@@ -16,7 +16,8 @@ In this project, we’ll use the U.S. Household Income data set from kaggle.com 
 - Jupyter Notebook - Tongchen He
 - Transformations - decided as group, executed by Tongchen He and Leyang Zhang
 - SQL Queries/Schema - Leyang Zhang
-- Project Mapping/README file - Christy Martell
+- Project Mapping - Christy Martell
+- README file - Christy Martell/Richard Wang
 - Presentation - Richard Wang
 
 ## Findings
