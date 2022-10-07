@@ -21,3 +21,6 @@ In this project, we’ll use the U.S. Household Income data set from kaggle.com 
 - Presentation - Richard Wang
 
 ## Findings
+1. We found that once we joined the data into one table and made all the transformations, the dataset we obtained from Kaggle.com about what fast food restaurants were in each city was not complete. Therefore, it was not accurate. We know this because it only showed about 1-5 restaurants per city. For example, it only showed one fast-food place in Agoura Hills and Manhattan Beach, California. We know that is not true. We did find some data that could have been more accurate; however, it cost a lot of money.
+
+2. We were not able to make the correlation we were hoping to because of the incomplete data. Based off the dataset we did use, we decided to do a query on our final data table to see which state has the most fast-food restaurants. We found that California has the most fast-food restaurants. 
